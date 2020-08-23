@@ -7,10 +7,9 @@ It is my third year university project. This program can create student ID card 
 
 **Java Libraries:**
 
-		1. Zxing
-  		2. Webcam Capture
-    		3. Itext PDF
-
+	Zxing
+	Webcam Capture
+	Itext PDF
 **Database:** Microsoft SQL Server Express 2014
 
 ### Examples:
